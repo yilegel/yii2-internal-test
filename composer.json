@@ -22,6 +22,6 @@
         { 
             "type": "git", 
             "url": "git@github.com:yilegel/yii2-internal-test.git" 
-        },
+        }
     ]
 }
