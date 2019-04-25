@@ -1,0 +1,21 @@
+{
+    "name": "yilegel/yii2-internal-test",
+    "description": "yii2内核的测试！用于学习yii2，长期存储一些知识，在官方下载的yii2框架、别人已经开发过的yii2框架中直接引用！",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"],
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "waki",
+            "email": "529303133@qq.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "yii\\internal_test\\": ""
+        }
+    }
+}
