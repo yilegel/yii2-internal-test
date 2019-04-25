@@ -17,5 +17,11 @@
         "psr-4": {
             "yii\\internal_test\\": ""
         }
-    }
+    },
+    "repositories":[ 
+        { 
+            "type": "git", 
+            "url": "git@106.12.118.30:/home/git/yii2-internal-test" 
+        },
+    ]
 }
