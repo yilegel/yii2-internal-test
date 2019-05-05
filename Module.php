@@ -1,16 +1,16 @@
 <?php
 
-namespace yii\intenal_test;
+namespace yii\internal_test;
 
 /**
- * test module definition class
+ * haha module definition class
  */
 class Module extends \yii\base\Module
 {
     /**
      * {@inheritdoc}
      */
-    public $controllerNamespace = 'yii\intenal_test\controllers';
+    public $controllerNamespace = 'yii\internal_test\controllers';
 
     /**
      * {@inheritdoc}
